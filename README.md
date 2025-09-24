@@ -1,4 +1,3 @@
-```markdown
 # Matching
 
 This repository contains tools and scripts to match documents by utilizing embeddings and vectorization techniques.
@@ -44,4 +43,3 @@ We welcome contributions from everyone interested in improving this toolkit! Ple
 - Add tests where applicable.
 
 Feel free to customize sections according to specifics of your project.
-```
